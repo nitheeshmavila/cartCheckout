@@ -1,5 +1,5 @@
 import unittest
-from models import Product, Cart, SpecialPrice, ProductsManager
+from src.models import Product, Cart, SpecialPrice, ProductsManager
 
 
 class TestCart(unittest.TestCase):
