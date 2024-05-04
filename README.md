@@ -1,0 +1,6 @@
+# cartCheckout
+
+1. Create docker image:
+    docker build -t checkout .
+2. Run container:
+    docker run checkout
